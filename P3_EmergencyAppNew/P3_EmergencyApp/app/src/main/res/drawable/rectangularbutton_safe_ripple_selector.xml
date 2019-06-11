@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="?android:colorControlNormal" >
+    <item android:id="@android:id/mask" android:drawable="@drawable/rectangularbutton_safe" />
+    <item android:drawable="@drawable/rectangularbutton_safe_selector" />
+</ripple>

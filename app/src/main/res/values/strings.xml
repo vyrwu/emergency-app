@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">P3_EmergencyApp</string>
+    <string name="SET_WIFI">Turn on WIFI? (required)</string>
+    <string name="YES">Yes</string>
+    <string name="NO">No</string>
+    <string name="SAFE_MESSAGE">Thank god</string>
+    <string name="HELP_MESSAGE">Help me Kami-sama</string>
+    <string name="SERVICE_ID">_p3g307emergencyapp</string>
+</resources>
+
